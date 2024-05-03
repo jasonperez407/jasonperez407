@@ -5,7 +5,7 @@
 - <b>SQL</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Excel</b>
-  - [Coffee Sales Visualizer](https://github.com/jasonperez407/Excel-Visualizer) 
+  - [Coffee Business Sales Analysis & Dashboard](https://github.com/jasonperez407/Excel-Visualizer) 
 - <b>Tableau</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Python</b>
