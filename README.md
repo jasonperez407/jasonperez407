@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason! <br/><a href="https://www.linkedin.com/in/jason-c-perez/">Data Analytics Professional</a>
+<h1>Hi, I'm Jason! <br/><a href="https://www.linkedin.com/in/jason-c-perez/">Aspiring Data Analytics Professional</a>
 
 <h2>👨🏻‍💻 Data Analytics Projects:</h2>
 
