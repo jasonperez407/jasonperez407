@@ -12,7 +12,7 @@
 
 - <b>Power BI</b>
 
-<h2>📚 Project-based Learning</h2>
+<h2>📚 Personal Projects</h2>
 
 - [Tableau Certified Data Analyst](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Microsoft Certified: Power BI Data Analyst Associate](https://www.youtube.com/watch?v=a83ASGn_V_s)
