@@ -3,11 +3,11 @@
 <h2>👨🏻‍💻 Data Analytics Projects:</h2>
 
 - <b>SQL</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  
 - <b>Excel</b>
   - [Coffee Business Sales Analysis & Dashboard](https://github.com/jasonperez407/Excel-Visualizer) 
 - <b>Tableau</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  
 - <b>Python</b>
 
 - <b>Power BI</b>
@@ -20,10 +20,6 @@
  
 
 <h2>📋 Certifications</h2>
-
-- [Tableau Certified Data Analyst](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Microsoft Certified: Power BI Data Analyst Associate](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Google Data Analytics Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
